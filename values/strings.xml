@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PennyDrop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="players">Players</string>
+    <string name="game">Game</string>
+    <string name="game_fragment">Game Fragment Antwain Burgman</string>
+    <string name="pick_players_fragment">Pick Players Fragment Antwain Burgman</string>
+    <string name="course">COP4655</string>
+    <string name="play_button">Play</string>
+    <string name="player_name">Player Name</string>
+    <string name="roll">ROLL</string>
+    <string name="pass">PASS</string>
+    <string name="or">OR</string>
+    <string name="coin_icon">Coin Icon</string>
+    <string name="na">N/A</string>
+</resources>
